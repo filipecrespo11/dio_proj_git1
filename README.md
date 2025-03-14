@@ -1,2 +1,2 @@
-# dio_proj_git1
+# repositorio para partilhoar progresso
 primeiro projeto git dio 
